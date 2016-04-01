@@ -1,17 +1,18 @@
-//
-//  main.m
-//  Exam13_메소드여러인자넘기기
-//
-//  Created by yeasangkug on 2016. 4. 1..
-//  Copyright © 2016년 yeasangkug. All rights reserved.
-//
-
 #import <Foundation/Foundation.h>
+#import "Calcul.h"
+
 
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
-        // insert code here...
-        NSLog(@"Hello, World!");
+        
+        Calcul *c = [Calcul new];
+        
+        int mul = [c mul:10 :20];
+        
+        int sum = [c minus:30 andY:10];
+        
+        NSLog(@"두수의 곱셈은 : %i",mul);
+        NSLog(@"두수의 덧셈은 : %i",sum);
     }
     return 0;
 }

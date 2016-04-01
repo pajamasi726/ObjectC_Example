@@ -10,8 +10,15 @@
 
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
-        // insert code here...
-        NSLog(@"Hello, World!");
+
+        int i;
+      
+        NSLog(@"숫자를 입력해주세요 : ");
+        
+        scanf("%i",&i); // scanf 로 사용자 입력 받기
+    
+        NSLog(@"입력한 숫자는 : %i",i);
+        
     }
     return 0;
 }

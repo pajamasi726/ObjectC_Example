@@ -10,8 +10,17 @@
 
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
-        // insert code here...
-        NSLog(@"Hello, World!");
+        
+        int i = 0;
+        
+        while(i < 10)
+        {
+            i++;
+            
+            NSLog(@"i = %i",i);
+        }
+
+    
     }
     return 0;
 }

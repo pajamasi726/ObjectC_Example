@@ -1,13 +1,18 @@
-//
-//  Person.h
-//  Exam10_Class
-//
-//  Created by yeasangkug on 2016. 3. 31..
-//  Copyright © 2016년 yeasangkug. All rights reserved.
-//
+// 인터페이스 파일
 
-#ifndef Person_h
-#define Person_h
+#import <Foundation/Foundation.h>
 
 
-#endif /* Person_h */
+@interface Person : NSObject // interface 라는 어노테이션으로 클래스에 대한 선언을 한다
+{
+    int phone;
+    NSString *name;
+}
+
+-(void)print;
+-(void)setNumber: (int) n;
+-(void)setName: (NSString*) str;
+-(int)Number;
+-(NSString*)Name;
+
+@end

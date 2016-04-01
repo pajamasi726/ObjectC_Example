@@ -10,8 +10,21 @@
 
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
-        // insert code here...
-        NSLog(@"Hello, World!");
+        
+        for(int i= 0 ; i < 10; i ++)
+        {
+            NSLog(@"i = %i",i);
+        }
+        
+        NSLog(@"\n짝수의 값만 출력하기\n");
+        
+        for(int j = 0 ; j < 20; j ++)
+        {
+            if(j % 2 == 0)
+            {
+                NSLog(@"짝수 입니다 값 : %i",j);
+            }
+        }
     }
     return 0;
 }

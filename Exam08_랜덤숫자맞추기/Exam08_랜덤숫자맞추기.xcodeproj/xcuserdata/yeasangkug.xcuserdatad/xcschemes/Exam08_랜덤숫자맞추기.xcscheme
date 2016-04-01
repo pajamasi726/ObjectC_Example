@@ -5,6 +5,22 @@
    <BuildAction
       parallelizeBuildables = "YES"
       buildImplicitDependencies = "YES">
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "8E05D55E1CACED95000BB5D9"
+               BuildableName = "Exam08_&#x1105;&#x1162;&#x11ab;&#x1103;&#x1165;&#x11b7;&#x1109;&#x116e;&#x11ba;&#x110c;&#x1161;&#x1106;&#x1161;&#x11bd;&#x110e;&#x116e;&#x1100;&#x1175;"
+               BlueprintName = "Exam08_&#x1105;&#x1162;&#x11ab;&#x1103;&#x1165;&#x11b7;&#x1109;&#x116e;&#x11ba;&#x110c;&#x1161;&#x1106;&#x1161;&#x11bd;&#x110e;&#x116e;&#x1100;&#x1175;"
+               ReferencedContainer = "container:Exam08_&#x1105;&#x1162;&#x11ab;&#x1103;&#x1165;&#x11b7;&#x1109;&#x116e;&#x11ba;&#x110c;&#x1161;&#x1106;&#x1161;&#x11bd;&#x110e;&#x116e;&#x1100;&#x1175;.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
    </BuildAction>
    <TestAction
       buildConfiguration = "Debug"
@@ -13,6 +29,15 @@
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
       </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "8E05D55E1CACED95000BB5D9"
+            BuildableName = "Exam08_&#x1105;&#x1162;&#x11ab;&#x1103;&#x1165;&#x11b7;&#x1109;&#x116e;&#x11ba;&#x110c;&#x1161;&#x1106;&#x1161;&#x11bd;&#x110e;&#x116e;&#x1100;&#x1175;"
+            BlueprintName = "Exam08_&#x1105;&#x1162;&#x11ab;&#x1103;&#x1165;&#x11b7;&#x1109;&#x116e;&#x11ba;&#x110c;&#x1161;&#x1106;&#x1161;&#x11bd;&#x110e;&#x116e;&#x1100;&#x1175;"
+            ReferencedContainer = "container:Exam08_&#x1105;&#x1162;&#x11ab;&#x1103;&#x1165;&#x11b7;&#x1109;&#x116e;&#x11ba;&#x110c;&#x1161;&#x1106;&#x1161;&#x11bd;&#x110e;&#x116e;&#x1100;&#x1175;.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -26,6 +51,16 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "8E05D55E1CACED95000BB5D9"
+            BuildableName = "Exam08_&#x1105;&#x1162;&#x11ab;&#x1103;&#x1165;&#x11b7;&#x1109;&#x116e;&#x11ba;&#x110c;&#x1161;&#x1106;&#x1161;&#x11bd;&#x110e;&#x116e;&#x1100;&#x1175;"
+            BlueprintName = "Exam08_&#x1105;&#x1162;&#x11ab;&#x1103;&#x1165;&#x11b7;&#x1109;&#x116e;&#x11ba;&#x110c;&#x1161;&#x1106;&#x1161;&#x11bd;&#x110e;&#x116e;&#x1100;&#x1175;"
+            ReferencedContainer = "container:Exam08_&#x1105;&#x1162;&#x11ab;&#x1103;&#x1165;&#x11b7;&#x1109;&#x116e;&#x11ba;&#x110c;&#x1161;&#x1106;&#x1161;&#x11bd;&#x110e;&#x116e;&#x1100;&#x1175;.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -35,6 +70,16 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "8E05D55E1CACED95000BB5D9"
+            BuildableName = "Exam08_&#x1105;&#x1162;&#x11ab;&#x1103;&#x1165;&#x11b7;&#x1109;&#x116e;&#x11ba;&#x110c;&#x1161;&#x1106;&#x1161;&#x11bd;&#x110e;&#x116e;&#x1100;&#x1175;"
+            BlueprintName = "Exam08_&#x1105;&#x1162;&#x11ab;&#x1103;&#x1165;&#x11b7;&#x1109;&#x116e;&#x11ba;&#x110c;&#x1161;&#x1106;&#x1161;&#x11bd;&#x110e;&#x116e;&#x1100;&#x1175;"
+            ReferencedContainer = "container:Exam08_&#x1105;&#x1162;&#x11ab;&#x1103;&#x1165;&#x11b7;&#x1109;&#x116e;&#x11ba;&#x110c;&#x1161;&#x1106;&#x1161;&#x11bd;&#x110e;&#x116e;&#x1100;&#x1175;.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
